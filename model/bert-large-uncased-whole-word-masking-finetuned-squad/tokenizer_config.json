@@ -1,0 +1,7 @@
+{
+    "max_len": 512,
+    "model_type": "bert",
+    "do_lower_case": true
+  }
+
+  
