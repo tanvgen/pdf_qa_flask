@@ -1,2 +1,1 @@
-"# pdf_qa_flask" 
-"# pdf_qa_flask" 
+The objective of this project is to develop a system that is capable of answering questions based on content extracted from PDF documents. The motivation behind this initiative is to enhance accessibility and usability of information stored in PDFs, enabling users to efficiently retrieve specific information directly from documents through natural language queries.
